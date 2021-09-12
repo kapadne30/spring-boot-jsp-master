@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nkapadne
+Build-Jdk: 12
+Implementation-Title: BookCRUDApp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.nitin.assignment
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/BookCRUDApp
+Created-By: Maven Integration for Eclipse
+

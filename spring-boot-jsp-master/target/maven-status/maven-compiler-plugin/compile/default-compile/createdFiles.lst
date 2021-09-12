@@ -1,0 +1,7 @@
+com\nitin\assignment\repository\BookRepository.class
+com\nitin\assignment\controller\BookController.class
+com\nitin\assignment\service\BookService.class
+com\nitin\assignment\serviceImpl\BookServiceImpl.class
+com\nitin\assignment\model\Book.class
+com\nitin\assignment\BookApplication.class
+com\nitin\assignment\dto\BookDTO.class
